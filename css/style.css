@@ -1,0 +1,12 @@
+html{
+  background: linear-gradient(rgba(2,0,36,1) 0%, rgba(9,45,121,1) 41%, rgba(0,212,255,1) 100%);
+  background-attachment: fixed;
+}
+
+*{
+  color: white;
+}
+
+hr{
+  background: white;
+}
